@@ -1,0 +1,15 @@
+{
+  "keywords": [
+    "瘤",
+    "癌",
+    "白血病",
+    "骨髓增生异常",
+    "骨髓增殖",
+    "浆细胞"
+  ],
+  "delay_seconds": 4,
+  "timeout_seconds": 45,
+  "max_retries": 2,
+  "output_dir": "recruiting-data",
+  "recruiting_only": true
+}

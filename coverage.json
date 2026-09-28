@@ -1,0 +1,68 @@
+[
+  {
+    "complete": false,
+    "declared": 1573,
+    "error": "数量变动或重复，需复核",
+    "failed": 0,
+    "found": 1572,
+    "initial": 1573,
+    "keyword": "瘤",
+    "pages": 79,
+    "pagesComplete": false
+  },
+  {
+    "complete": false,
+    "declared": 1287,
+    "error": "数量变动或重复，需复核",
+    "failed": 0,
+    "found": 1286,
+    "initial": 1287,
+    "keyword": "癌",
+    "pages": 65,
+    "pagesComplete": false
+  },
+  {
+    "complete": true,
+    "declared": 132,
+    "error": "",
+    "failed": 0,
+    "found": 132,
+    "initial": 132,
+    "keyword": "白血病",
+    "pages": 7,
+    "pagesComplete": true
+  },
+  {
+    "complete": true,
+    "declared": 18,
+    "error": "",
+    "failed": 0,
+    "found": 18,
+    "initial": 18,
+    "keyword": "骨髓增生异常",
+    "pages": 1,
+    "pagesComplete": true
+  },
+  {
+    "complete": true,
+    "declared": 2,
+    "error": "",
+    "failed": 0,
+    "found": 2,
+    "initial": 2,
+    "keyword": "骨髓增殖",
+    "pages": 1,
+    "pagesComplete": true
+  },
+  {
+    "complete": true,
+    "declared": 1,
+    "error": "",
+    "failed": 0,
+    "found": 1,
+    "initial": 1,
+    "keyword": "浆细胞",
+    "pages": 1,
+    "pagesComplete": true
+  }
+]
